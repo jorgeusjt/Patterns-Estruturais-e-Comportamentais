@@ -1,0 +1,3 @@
+eitura do arquivo de Texto 
+Testando as Linhas 
+se estar Lendo correto
